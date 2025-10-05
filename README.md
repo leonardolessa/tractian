@@ -21,7 +21,7 @@ A aplicação consome a fake API pública do desafio e monta uma árvore navegá
 
 ## Demo & vídeo
 
-- **GitHub Pages**: `https://leonardolessa.github.io/tractian-challenge/`
+- **GitHub Pages**: `https://leonardolessa.github.io/tractian/`
 
 ![Demonstração em vídeo](video.gif)
 
